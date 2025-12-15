@@ -7,4 +7,5 @@ The notebook demonstrates:
 - Loading **Qwen2.5-Omni-7B** with the correct Transformers branch  
 - Running **text** and **audio (speech)** prompts  
 - Generating **spoken replies**  
-- Measuring **end-**
+- Measuring **end-to-end latency** for S2S turns  
+- Saving generated audio for MOS / naturalness evaluation  
